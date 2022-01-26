@@ -1,4 +1,6 @@
 # Myntra Hackathon 2020 : Solution
+### Developed by: Kedar Vaidya & Sanya Anil Chetwani
+
 ## Theme of the Challenge : Trendiness
 ## Table of Contents
 - [Overview](#Overview)
