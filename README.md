@@ -113,4 +113,3 @@ Matterpost implementation      : https://github.com/matterport/Mask_RCNN
 
 Semantic segmentation model    : https://github.com/manas3858/iMat-Fashion/
 
-Starter kernel for imat(Kaggle): https://www.kaggle.com/ramswaroopbhakar14/training-inception-v3-for-fashion-attributes
